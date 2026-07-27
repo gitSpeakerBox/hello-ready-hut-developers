@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*::-webkit-scrollbar {
+  display: none;
+}
+
+@layer utilities {
+  .icon-white {
+    filter: brightness(0) invert(1);
+    transition: filter 0.3s ease;
+  }
+  .icon-original {
+    filter: none;
+  }
+}

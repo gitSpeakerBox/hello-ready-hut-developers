@@ -1,0 +1,17 @@
+.main_padding {
+  &_x {
+    @apply xl:px-28 lg:px-24 sm:px-16 px-6;
+  }
+  &_y {
+    @apply py-4;
+  }
+  &_l {
+    @apply xl:pl-28 lg:pl-24 sm:pl-16 pl-6;
+  }
+  &_t {
+    @apply sm:pt-16 pt-8;
+  }
+  &_b {
+    @apply sm:pb-16 pb-8;
+  }
+}
