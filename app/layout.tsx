@@ -8,8 +8,8 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "New Hair & Cosmetics | Hair Care Manufacturer & Private Label",
-  description: "Launch your own hair care brand with New Hair & Cosmetics. We offer private label manufacturing, premium formulations, packaging, branding, and marketing support.",
+  title: "Ready Hut Developers | Premium Builders & Villa Projects in Calicut",
+  description: "Ready Hut Developers is a premier real estate and construction company in Calicut, Kerala, specializing in luxury gated community villas, architectural design, and project management.",
   manifest: "/favicon_io/site.webmanifest",
   icons: {
     icon: "favicon_io/android-chrome-192x192.png",
